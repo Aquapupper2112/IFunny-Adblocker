@@ -1,3 +1,6 @@
+# Ifunny Ad-Blocker
+
+
 I hate IFunny ads! They're annoying or straight up illegal. I spent quite a while blocking domains using lockdown privacy and have succeeded! Here are all of the domains and the easy-to-use code for blocking ads on IFunny! Note that you'll need to run a BadKB script so you'll have to do some research for your own tools (I have a flipper zero)
 
 There are two files, the text file of the URLs and the BadKB script for Lockdown Privacy
